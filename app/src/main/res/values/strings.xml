@@ -17,7 +17,7 @@
     <string name="deal">Оформление сделки</string>
     <string name="result">Заключительный этап</string>
     <string name="name">Помощник покупки автомобиля</string>
-    <string name="proba">ОСНОЙНОй ТЕКСТ ЗДЕСЬ ПИСАТЬ???</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>

@@ -21,13 +21,25 @@
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/deal_fragment.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/electrical_fragment.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/engine_fragment.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/external_fragment.xml" value="0.27760416666666665" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/fragment_gallery.xml" value="0.2578947368421053" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/fragment_home.xml" value="0.2578947368421053" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/fragment_slideshow.xml" value="0.33" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/fragment_test.xml" value="0.25" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/fragment_wer.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/inspection_fragment.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/internal_fragment.xml" value="0.27760416666666665" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/nav_header_main.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/preparation_fragment.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/result_fragment.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/search_fragment.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/wer_fragment.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2785" />
       </map>
     </option>
   </component>
