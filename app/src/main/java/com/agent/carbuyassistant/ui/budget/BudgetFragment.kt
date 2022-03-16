@@ -9,7 +9,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.agent.carbuyassistant.databinding.FragmentGalleryBinding
 
-class GalleryFragment : Fragment() {
+class BudgetFragment : Fragment() {
 
     private var _binding: FragmentGalleryBinding? = null
 

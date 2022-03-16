@@ -5,16 +5,49 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
+            android:id="@+id/nav_budget"
+            android:icon="@drawable/ic_budget"
+            android:title="@string/budget" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_search"
+            android:title="@string/search" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/nav_calling"
+            android:icon="@drawable/ic_calling"
+            android:title="@string/calling" />
+
+        <item android:id="@+id/nav_preparation"
+            android:icon="@drawable/ic_preparation"
+            android:title="@string/preparation"/>
+
+        <item android:id="@+id/nav_inspection"
+            android:icon="@drawable/ic_inspection"
+            android:title="@string/inspection"/>
+
+        <item android:id="@+id/nav_external"
+            android:icon="@drawable/ic_external"
+            android:title="@string/external"/>
+
+        <item android:id="@+id/nav_internal"
+            android:icon="@drawable/ic_internal"
+            android:title="@string/internal"/>
+
+        <item android:id="@+id/nav_engine"
+            android:icon="@drawable/ic_engine"
+            android:title="@string/engine"/>
+
+        <item android:id="@+id/nav_electrical"
+            android:icon="@drawable/ic_electrical"
+            android:title="@string/electrical"/>
+
+        <item android:id="@+id/nav_deal"
+            android:icon="@drawable/ic_deal"
+            android:title="@string/deal"/>
+
+        <item android:id="@+id/nav_result"
+            android:icon="@drawable/ic_result"
+            android:title="@string/result"/>
+
     </group>
 </menu>

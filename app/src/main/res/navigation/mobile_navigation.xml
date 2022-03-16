@@ -3,23 +3,64 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/nav_home">
+    app:startDestination="@+id/nav_budget">
 
     <fragment
-        android:id="@+id/nav_home"
+        android:id="@+id/nav_budget"
         android:name="com.agent.carbuyassistant.ui.home.HomeFragment"
-        android:label="@string/menu_home"
+        android:label="@string/budget"
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
+        android:id="@+id/nav_search"
         android:name="com.agent.carbuyassistant.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:label="@string/search"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
+        android:id="@+id/nav_calling"
         android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:label="@string/calling"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_preparation"
+        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:label="@string/preparation"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_inspection"
+        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:label="@string/inspection"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_external"
+        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:label="@string/external"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_internal"
+        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:label="@string/internal"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_engine"
+        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:label="@string/engine"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_electrical"
+        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:label="@string/electrical"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_deal"
+        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:label="@string/deal"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_result"
+        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:label="@string/result"
+        tools:layout="@layout/fragment_slideshow" />
+
 </navigation>

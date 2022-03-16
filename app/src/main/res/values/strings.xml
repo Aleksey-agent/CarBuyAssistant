@@ -2,12 +2,22 @@
     <string name="app_name">CarBuyAssistant</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="budget">Планируемый бюджет</string>
+    <string name="search">Поиск автомобиля</string>
+    <string name="calling">Обзвон вариантов</string>
+    <string name="preparation">Подготовка к осмотру</string>
+    <string name="inspection">Начало осмотра</string>
+    <string name="external">Внешний осмотр</string>
+    <string name="internal">Осмотр салона</string>
+    <string name="engine">Осмотр двигателя</string>
+    <string name="electrical">Проверка электроники</string>
+    <string name="deal">Оформление сделки</string>
+    <string name="result">Заключительный этап</string>
+    <string name="name">Помощник покупки автомобиля</string>
+    <string name="proba">ОСНОЙНОй ТЕКСТ ЗДЕСЬ ПИСАТЬ???</string>
+
+
 </resources>
