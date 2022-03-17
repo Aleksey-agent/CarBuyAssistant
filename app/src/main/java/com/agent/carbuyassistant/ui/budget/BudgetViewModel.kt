@@ -1,14 +1,7 @@
-package com.agent.carbuyassistant.ui.gallery
+package com.agent.carbuyassistant.ui.budget
 
-import androidx.lifecycle.LiveData
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-// Поставляет данные и обрабатывает события
 class BudgetViewModel : ViewModel() {
-
-    private val _text = MutableLiveData<String>().apply {
-        value = "Текст"
-    }
-    val text: LiveData<String> = _text
+    // TODO: Implement the ViewModel
 }

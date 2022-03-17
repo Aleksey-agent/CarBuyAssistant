@@ -24,7 +24,7 @@ class GalleryFragment : Fragment() {
     ): View {
         // логика работы фрагмента вынесена в объект viewModel
         val galleryViewModel =
-            ViewModelProvider(this).get(BudgetViewModel::class.java)
+            ViewModelProvider(this).get(GalleryViewModel::class.java)
 
         // создание визуальной части фрагмента
         _binding = FragmentGalleryBinding.inflate(inflater, container, false)

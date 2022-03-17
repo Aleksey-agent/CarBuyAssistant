@@ -3,64 +3,69 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/nav_budget">
+    app:startDestination="@id/nav_home">
 
     <fragment
         android:id="@+id/nav_budget"
-        android:name="com.agent.carbuyassistant.ui.home.HomeFragment"
+        android:name="com.agent.carbuyassistant.ui.budget.BudgetFragment"
         android:label="@string/budget"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/budget_fragment" />
 
     <fragment
+        android:id="@+id/nav_home"
+        android:name="com.agent.carbuyassistant.ui.home.HomeFragment"
+        android:label="@string/home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
         android:id="@+id/nav_search"
-        android:name="com.agent.carbuyassistant.ui.gallery.GalleryFragment"
+        android:name="com.agent.carbuyassistant.ui.search.SearchFragment"
         android:label="@string/search"
-        tools:layout="@layout/fragment_gallery" />
+        tools:layout="@layout/search_fragment" />
 
     <fragment
         android:id="@+id/nav_calling"
-        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:name="com.agent.carbuyassistant.ui.calling.CallingFragment"
         android:label="@string/calling"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/calling_fragment" />
     <fragment
         android:id="@+id/nav_preparation"
-        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:name="com.agent.carbuyassistant.ui.preparation.PreparationFragment"
         android:label="@string/preparation"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/preparation_fragment" />
     <fragment
         android:id="@+id/nav_inspection"
-        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:name="com.agent.carbuyassistant.ui.inspection.InspectionFragment"
         android:label="@string/inspection"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/inspection_fragment" />
     <fragment
         android:id="@+id/nav_external"
-        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:name="com.agent.carbuyassistant.ui.external.ExternalFragment"
         android:label="@string/external"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/external_fragment" />
     <fragment
         android:id="@+id/nav_internal"
-        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:name="com.agent.carbuyassistant.ui.internal.InternalFragment"
         android:label="@string/internal"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/internal_fragment" />
     <fragment
         android:id="@+id/nav_engine"
-        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:name="com.agent.carbuyassistant.ui.engine.EngineFragment"
         android:label="@string/engine"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/engine_fragment" />
     <fragment
         android:id="@+id/nav_electrical"
-        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:name="com.agent.carbuyassistant.ui.electrical.ElectricalFragment"
         android:label="@string/electrical"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/electrical_fragment" />
     <fragment
         android:id="@+id/nav_deal"
-        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:name="com.agent.carbuyassistant.ui.deal.DealFragment"
         android:label="@string/deal"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/deal_fragment" />
     <fragment
         android:id="@+id/nav_result"
-        android:name="com.agent.carbuyassistant.ui.slideshow.SlideshowFragment"
+        android:name="com.agent.carbuyassistant.ui.result.ResultFragment"
         android:label="@string/result"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/result_fragment" />
 
 </navigation>

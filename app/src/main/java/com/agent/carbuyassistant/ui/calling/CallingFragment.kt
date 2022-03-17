@@ -1,4 +1,4 @@
-package com.agent.carbuyassistant.ui.budget
+package com.agent.carbuyassistant.ui.calling
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
@@ -8,24 +8,24 @@ import android.view.View
 import android.view.ViewGroup
 import com.agent.carbuyassistant.R
 
-class BudgetFragment : Fragment() {
+class CallingFragment : Fragment() {
 
     companion object {
-        fun newInstance() = BudgetFragment()
+        fun newInstance() = CallingFragment()
     }
 
-    private lateinit var viewModel: BudgetViewModel
+    private lateinit var viewModel: CallingViewModel
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.budget_fragment, container, false)
+        return inflater.inflate(R.layout.calling_fragment, container, false)
     }
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
-        viewModel = ViewModelProvider(this).get(BudgetViewModel::class.java)
+        viewModel = ViewModelProvider(this).get(CallingViewModel::class.java)
         // TODO: Use the ViewModel
     }
 
