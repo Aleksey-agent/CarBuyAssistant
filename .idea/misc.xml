@@ -41,12 +41,13 @@
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/fragment_slideshow.xml" value="0.33" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/fragment_test.xml" value="0.25" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/fragment_wer.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/home_fragment.xml" value="0.2935185185185185" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/inspection_fragment.xml" value="0.27760416666666665" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/internal_fragment.xml" value="0.27760416666666665" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/nav_header_main.xml" value="0.36102564102564105" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/preparation_fragment.xml" value="0.27760416666666665" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/result_fragment.xml" value="0.27760416666666665" />
-        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/search_fragment.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/search_fragment.xml" value="0.1" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/layout/wer_fragment.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Tesla/AndroidStudioProjects/CarBuyAssistant/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
